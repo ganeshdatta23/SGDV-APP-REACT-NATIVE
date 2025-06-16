@@ -87,7 +87,8 @@ The application is configured for deployment on Replit with:
 ## Changelog
 ```
 Changelog:
-- June 16, 2025. Initial setup
+- June 16, 2025. Initial setup - Progressive Web App with compass functionality
+- June 16, 2025. Native mobile app implementation - React Native project with Android/iOS support
 ```
 
 ## User Preferences
